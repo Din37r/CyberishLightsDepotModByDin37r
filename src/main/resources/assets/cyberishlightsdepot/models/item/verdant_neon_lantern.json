@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cyberishlightsdepot:item/verdant_neon_lantern"
+  }
+}

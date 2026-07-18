@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "neon_lanterns_dyeing",
+  "category": "building",
+  "ingredients": [
+    [
+      { "item": "cyberishlightsdepot:maroon_neon_lantern" },
+      { "item": "cyberishlightsdepot:rose_neon_lantern" },
+      { "item": "cyberishlightsdepot:coral_neon_lantern" },
+      { "item": "cyberishlightsdepot:indigo_neon_lantern" },
+      { "item": "cyberishlightsdepot:navy_neon_lantern" },
+      { "item": "cyberishlightsdepot:slate_neon_lantern" },
+      { "item": "cyberishlightsdepot:olive_neon_lantern" },
+      { "item": "cyberishlightsdepot:amber_neon_lantern" },
+      { "item": "cyberishlightsdepot:beige_neon_lantern" },
+      { "item": "cyberishlightsdepot:teal_neon_lantern" },
+      { "item": "cyberishlightsdepot:aqua_neon_lantern" },
+      { "item": "cyberishlightsdepot:verdant_neon_lantern" },
+      { "item": "cyberishlightsdepot:forest_neon_lantern" },
+      { "item": "cyberishlightsdepot:ginger_neon_lantern" },
+      { "item": "cyberishlightsdepot:tan_neon_lantern" },
+      { "item": "cyberishlights:white_neon_lantern" },
+      { "item": "cyberishlights:light_gray_neon_lantern" },
+      { "item": "cyberishlights:gray_neon_lantern" },
+      { "item": "cyberishlights:brown_neon_lantern" },
+      { "item": "cyberishlights:red_neon_lantern" },
+      { "item": "cyberishlights:orange_neon_lantern" },
+      { "item": "cyberishlights:yellow_neon_lantern" },
+      { "item": "cyberishlights:lime_neon_lantern" },
+      { "item": "cyberishlights:green_neon_lantern" },
+      { "item": "cyberishlights:cyan_neon_lantern" },
+      { "item": "cyberishlights:light_blue_neon_lantern" },
+      { "item": "cyberishlights:blue_neon_lantern" },
+      { "item": "cyberishlights:purple_neon_lantern" },
+      { "item": "cyberishlights:magenta_neon_lantern" },
+      { "item": "cyberishlights:pink_neon_lantern" }
+    ],
+    {
+      "item": "dye_depot:mint_dye"
+    }
+  ],
+  "result": {
+    "item": "cyberishlightsdepot:mint_neon_lantern",
+    "count": 1
+  }
+}

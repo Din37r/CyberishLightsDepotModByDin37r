@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "neon_lamps_dyeing",
+  "category": "building",
+  "ingredients": [
+    [
+      { "item": "cyberishlightsdepot:maroon_neon_lamp" },
+      { "item": "cyberishlightsdepot:rose_neon_lamp" },
+      { "item": "cyberishlightsdepot:coral_neon_lamp" },
+      { "item": "cyberishlightsdepot:indigo_neon_lamp" },
+      { "item": "cyberishlightsdepot:navy_neon_lamp" },
+      { "item": "cyberishlightsdepot:slate_neon_lamp" },
+      { "item": "cyberishlightsdepot:olive_neon_lamp" },
+      { "item": "cyberishlightsdepot:amber_neon_lamp" },
+      { "item": "cyberishlightsdepot:beige_neon_lamp" },
+      { "item": "cyberishlightsdepot:teal_neon_lamp" },
+      { "item": "cyberishlightsdepot:mint_neon_lamp" },
+      { "item": "cyberishlightsdepot:aqua_neon_lamp" },
+      { "item": "cyberishlightsdepot:verdant_neon_lamp" },
+      { "item": "cyberishlightsdepot:forest_neon_lamp" },
+      { "item": "cyberishlightsdepot:ginger_neon_lamp" },
+      { "item": "cyberishlightsdepot:tan_neon_lamp" },
+      { "item": "cyberishlights:white_neon_lamp" },
+      { "item": "cyberishlights:light_gray_neon_lamp" },
+      { "item": "cyberishlights:gray_neon_lamp" },
+      { "item": "cyberishlights:black_neon_lamp" },
+      { "item": "cyberishlights:brown_neon_lamp" },
+      { "item": "cyberishlights:red_neon_lamp" },
+      { "item": "cyberishlights:orange_neon_lamp" },
+      { "item": "cyberishlights:yellow_neon_lamp" },
+      { "item": "cyberishlights:green_neon_lamp" },
+      { "item": "cyberishlights:cyan_neon_lamp" },
+      { "item": "cyberishlights:light_blue_neon_lamp" },
+      { "item": "cyberishlights:blue_neon_lamp" },
+      { "item": "cyberishlights:purple_neon_lamp" },
+      { "item": "cyberishlights:magenta_neon_lamp" },
+      { "item": "cyberishlights:pink_neon_lamp" }
+    ],
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+  "result": {
+    "item": "cyberishlights:lime_neon_lamp",
+    "count": 1
+  }
+}

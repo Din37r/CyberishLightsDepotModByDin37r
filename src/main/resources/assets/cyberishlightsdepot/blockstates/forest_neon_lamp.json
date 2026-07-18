@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "cyberishlightsdepot:block/forest_neon_lamp" },
+    "lit=true": { "model": "cyberishlightsdepot:block/forest_neon_lamp_lit" }
+  }
+}

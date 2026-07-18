@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cyberishlightsdepot:block/maroon_neon_lamp_lit"
+  }
+}
