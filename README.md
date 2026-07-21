@@ -2,7 +2,7 @@
 
 This is the main branch for Minecraft Forge 1.20.1
 
-Modrinth Page > TBA
+Modrinth Page > https://modrinth.com/mod/cyberish-lights-depot
 
 Curseforge Page > https://legacy.curseforge.com/minecraft/mc-mods/cyberish-lights-depot
 
